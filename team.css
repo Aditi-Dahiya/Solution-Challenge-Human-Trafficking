@@ -1,0 +1,35 @@
+.tagline{
+  text-align: center;
+  padding-top: 40px;
+}
+
+.developers{
+  background-color: #95BDFF;
+  border-radius: 30px;
+  width: 100%;
+}
+.profile1{
+  border-radius: 50%;
+  padding-top: 50px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+.aditi{
+  font-size:40px;
+  font-weight: bold;
+  padding-top: 10px;
+  padding-bottom: 30px;
+  color: #F16767;
+  padding-left: 650px;
+}
+
+.p{
+  color: white;
+  text-align: center;
+  padding-bottom: 30px;
+  padding-left: 400px;
+  padding-right: 350px;
+}

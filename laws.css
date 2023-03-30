@@ -5,10 +5,36 @@ a{
   text-transform: capitalize;
   text-decoration: none;
   text-indent: 15px;
-  letter-spacing: 15px;
+  letter-spacing: 3px;
 }
 .table-laws{
   border: solid;
   border-radius: 15px;
   background-color: #E8D5C4;
+}
+.table-laws{
+  margin: 250px 50px;
+}
+.law1{
+  padding-left: 30px;
+  padding-top: 20px;
+}
+.law2{
+  padding-left: 30px;
+}
+.law3{
+  padding-left: 30px;
+}
+.law4{
+  padding-left: 30px;
+}
+.law5{
+  padding-left: 30px;
+  padding-bottom: 20px;
+}
+.bullet{
+  border-radius: 50%;
+}
+table{
+  width:100%;
 }
